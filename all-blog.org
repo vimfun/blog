@@ -1,0 +1,23 @@
+#+hugo_base_dir: /Users/pyskell/workspace/blog/
+#+hugo_section: post
+#+hugo_auto_set_lastmod: t
+#+hugo_code_fence: nil
+#+STARTUP: logdrawer
+
+* Blog Ideas
+** DONE Hi, first page!
+:PROPERTIES:
+:EXPORT_FILE_NAME: hi-first-page
+:END:
+:LOGBOOK:
+- State "DONE"       from "STARTED"    [2022-11-22 Tue 14:10]
+- State "STARTED"    from "DONE"       [2022-11-22 Tue 14:10]
+- State "DONE"       from "TODO"       [2022-11-22 Tue 14:05]
+:END:
+
+*** Header 1
+**** title 1
+*** Header 2
+**** title 2
+*** Header 3
+**** title 3
